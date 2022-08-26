@@ -1,6 +1,6 @@
-# espriktning bme280
+# Vindriktning MQTT + Display + BME280
 
-ESP8266 based board replacement for Vindriktning with PM1006 and BME280 sensors
+ESP8266 commercial board to display and log IKEA Vindriktning sensor values plus BME280 temperature, humidity and pressure measurements.
 
 All started from Hypfer to send PM2.5 values to MQTT server
 
@@ -36,7 +36,7 @@ In action:
 ## List of Materials
 
 * WeMos D1 mini ESP8266 or compatible
-* i2c display LCD1602
+* i2c display LCD1602 
 * BME280 sensor
 * USB-C data cable
 * Small ABS box
