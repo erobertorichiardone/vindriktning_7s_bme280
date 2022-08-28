@@ -122,6 +122,13 @@ factoryreset           Forgets wifi and other settings, starts as new
 turning fan off
 ```
 
+## Greetings
+
+This project exists thanks to:
+<a href="http://avvoca.to.it/">DLx</a>
+<a href="http://notmart.org/">notmart</a>
+
+
 
 
 
